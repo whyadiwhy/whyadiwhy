@@ -9,9 +9,6 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya Spotify Playing" width="350" />](https://open.spotify.com/user/	31kvdv6f4jifvljvg6bucg7i2pfy)
-
 ### Connect with me:
 
 [<img align="left" alt="padhelikhelog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
