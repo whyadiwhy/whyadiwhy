@@ -30,6 +30,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+<img src="https://github-readme-stats.vercel.app/api?username=whyadiwhy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br />
 
 ---
@@ -39,7 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unclicked Moments](https://www.padhelikhelog.co/2020/09/uncliked-moments.html
+- [Unclicked Moments](https://www.padhelikhelog.co/2020/09/uncliked-moments.html)
 - [Is suffering necessary ?](https://www.padhelikhelog.co/2020/08/is-suffering-necessary.html)
 - [The Art of getting what you want](padhelikhelog.co/2020/08/the-art-of-getting-what-you-want.html)
 - [Underage Drinking](https://www.padhelikhelog.co/2020/08/underage-drinking.html)
