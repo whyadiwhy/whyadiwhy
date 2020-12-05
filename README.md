@@ -1,6 +1,4 @@
-### Hi there, I'm Aditya Gupta 👋<a href="https://dev.to/whyadiwhy">
-  <i class="fab fa-dev" title="whyadiwhy's DEV Profile"></i>
-</a>
+### Hi there, I'm Aditya Gupta 👋
 
 [![Website](https://img.shields.io/website?label=padhelikhelog.co&style=for-the-badge&url=https%3A%2F%2Fpadhelikhelog.co)](https://padhelikhelog.co)
 
@@ -39,6 +37,9 @@
 <a href="https://github.com/whyadiwhy/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whyadiwhy&layout=compact&theme=radical" />
+</a>
+<a href="https://dev.to/whyadiwhy">
+  <i class="fab fa-dev" title="whyadiwhy's DEV Profile"></i>
 </a>
 <br />
 
