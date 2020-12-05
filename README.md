@@ -1,4 +1,6 @@
-### Hi there, I'm Aditya Gupta 👋
+### Hi there, I'm Aditya Gupta 👋<a href="https://dev.to/whyadiwhy">
+  <i class="fab fa-dev" title="whyadiwhy's DEV Profile"></i>
+</a>
 
 [![Website](https://img.shields.io/website?label=padhelikhelog.co&style=for-the-badge&url=https%3A%2F%2Fpadhelikhelog.co)](https://padhelikhelog.co)
 
