@@ -3,14 +3,14 @@
 </a>
 
 [![Website](https://img.shields.io/website?label=padhelikhelog.co&style=for-the-badge&url=https%3A%2F%2Fpadhelikhelog.co)](https://www.padhelikhelog.co)
-
+<img alt="Night Coding" src="img/coding-freak.gif" align="right"/>
 ## I'm a Student, Developer, and Singer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar 
-<img alt="Night Coding" src="img/coding-freak.gif" align="right"/>
+
 ### Connect with me:
 
 [<img align="left" alt="padhelikhelog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
