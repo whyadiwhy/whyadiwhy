@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar 
-<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/9kGQ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 ### Connect with me:
 
 [<img align="left" alt="padhelikhelog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
