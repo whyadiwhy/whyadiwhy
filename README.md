@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar 
-<img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="img/coding-freak.gif" align="right"/>
 ### Connect with me:
 
 [<img align="left" alt="padhelikhelog.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
