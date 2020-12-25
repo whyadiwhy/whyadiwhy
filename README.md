@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar 
+<img alt="Night Coding" src="https://i.gifer.com/9kGQ.gif" align="right"/>
 
 ### Connect with me:
 
