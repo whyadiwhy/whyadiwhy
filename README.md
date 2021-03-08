@@ -19,6 +19,7 @@
 [<img align="left" alt="_whyadiwhy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyadiwhy&" alt="whyadiwhy" /></p>
 
 
 <br />
