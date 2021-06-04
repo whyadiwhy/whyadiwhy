@@ -21,7 +21,7 @@
 <br />
 [
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal997-das&theme=radical&custom_title=streak-stats&hide_border=true&layout=compactl
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyadiwhy&theme=radical&custom_title=streak-stats&hide_border=true&layout=compactl"/>]
 
 <br />
 
