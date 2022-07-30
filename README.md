@@ -49,19 +49,6 @@
 
 ---
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Unclicked Moments](https://www.padhelikhelog.co/2020/09/uncliked-moments.html)
-- [Is suffering necessary ?](https://www.padhelikhelog.co/2020/08/is-suffering-necessary.html)
-- [The Art of getting what you want](padhelikhelog.co/2020/08/the-art-of-getting-what-you-want.html)
-- [Underage Drinking](https://www.padhelikhelog.co/2020/08/underage-drinking.html)
-- [A Path of Self Discovery](https://www.padhelikhelog.co/2020/08/a-path-of-self-discovery.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://padhelikhelog.co)
 
 ---
 
