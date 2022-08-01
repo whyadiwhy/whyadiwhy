@@ -2,8 +2,6 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Gupta's DEV Profile" height="30" width="30">
 </a>
 
-[![Website](https://img.shields.io/website?label=padhelikhelog.co&style=for-the-badge&url=https%3A%2F%2Fpadhelikhelog.co)](https://www.padhelikhelog.co)
-<img alt="Night Coding" src="img/coding-freak.gif" align="right"/>
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
