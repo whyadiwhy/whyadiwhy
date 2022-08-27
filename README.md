@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Hobbie: I love to sing and play guitar 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whyadiwhy&label=Profile%20views&color=0e75b6&style=flat" alt="whyadiwhy" /> </p>
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
